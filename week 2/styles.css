@@ -11,6 +11,7 @@ body{
         color: lightyellow;
         font-style: italic;
         text-align: right;
+    }
 
         h1{
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -21,4 +22,3 @@ body{
         h2 {
             color: black
         }
-}
