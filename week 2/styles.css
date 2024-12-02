@@ -34,6 +34,8 @@ body{
         }
         ol{
             list-style-type: upper-roman;
+            text-align: left;
+
 
         }
         li{
@@ -44,4 +46,7 @@ body{
         .fave{
             color:orangered;
         }
-    }
+        .pizza{
+            width:50%;
+        }
+    
