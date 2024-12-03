@@ -62,7 +62,6 @@ body{
             font-weight:bold;
         }
         .section-one {
-            border: 1px solid white;
             background-color:
             darkslateblue;
         }
@@ -77,12 +76,10 @@ body{
             flex-wrap: wrap;
         }
         .cake-item {
-            border:1px dashed yellow;
             width: 275px;
             height: 275px;
             padding: 4px;
         }
         .cake-group {
-            border: 2px solid green;
             width: 275px;
         }
