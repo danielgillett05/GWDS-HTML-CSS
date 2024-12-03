@@ -54,7 +54,9 @@ body{
         }
     
         /* cake page */
-        .cake-text {
+        .cake-text 
+        .section-one
+        {
             font-family: Verdana, Geneva, Tahoma, sans-serif;
             text-align: left;
             color: white;
